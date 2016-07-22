@@ -9,3 +9,5 @@
  	<li>HTML5</li>
  </ul>
 
+ <img src="http://i67.tinypic.com/2n8wq5h.jpg"/>
+
