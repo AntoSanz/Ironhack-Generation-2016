@@ -9,5 +9,5 @@
  	<li>HTML5</li>
  </ul>
 
- <img src="http://i67.tinypic.com/2n8wq5h.jpg"/>
+ <img class="logo-asanz" height="50%" width="50%" src="http://i67.tinypic.com/2n8wq5h.jpg"/>
 
