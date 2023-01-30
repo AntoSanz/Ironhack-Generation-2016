@@ -9,5 +9,4 @@
  	<li>HTML5</li>
  </ul>
 
- <img class="logo-asanz" height="50%" width="50%" src="http://i67.tinypic.com/2n8wq5h.jpg"/>
-
+Este proyecto está subido en https://proyecto-generation.netlify.app/game.html#
